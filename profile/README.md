@@ -1,5 +1,3 @@
-# FTN
-
 ## [English]
 
 We are a company specialized in design and development of innovative digital solutions.
