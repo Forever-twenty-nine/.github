@@ -1,4 +1,4 @@
-# 🚀 Welcome to [Company Name]
+# 🚀 Welcome to FTN Agency
 
 We craft bold, innovative digital experiences that elevate brands and empower users.
 
@@ -23,9 +23,9 @@ We craft bold, innovative digital experiences that elevate brands and empower us
 
 ## 📬 Let's Connect
 
-- 📧 **Email:** [contact@company.com](mailto:contact@company.com)  
-- 🌐 **Website:** [www.company.com](https://www.company.com)  
-- 📍 **Location:** [City, Country]
+- 📧 **Email:** [contact@ftn.com](mailto:contact@company.com)  
+- 🌐 **Website:** [www.ftn.com](https://www.company.com)  
+- 📍 **Location:** [Mendoza, Argentina]
 
 ---
 
